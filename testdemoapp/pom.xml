@@ -33,6 +33,7 @@
 <redeploy>true</redeploy>
 <environment>Sandbox</environment>
 <workerType>Micro</workerType>
+<uri>https://anypoint.mulesoft.com</uri>
 </configuration>
 <executions>
 <execution>
