@@ -26,9 +26,9 @@
 				<configuration>
 					<applicationName>testdemo-app</applicationName>
 					<deploymentType>cloudhub</deploymentType>
-					<muleVersion>3.9.0</muleVersion>
-					<username>SompurLaxmi</username>
-					<password>Gadag456@#</password>
+					<muleVersion>3.9.3</muleVersion>
+					<username>Jonvagte</username>
+					<password>Password456Try</password>
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
 					<workerType>Micro</workerType>
