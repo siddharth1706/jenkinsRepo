@@ -27,10 +27,10 @@
 					<applicationName>testdemo-app</applicationName>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.9.0</muleVersion>
-					<username>Jonvagte</username>
-					<password>Password456Try</password>
+					<username>${username}</username>
+					<password>${password}</password>
 					<redeploy>true</redeploy>
-					<environment>Sandbox</environment>
+					<environment>${environment}</environment>
 					<workerType>Micro</workerType>
 					<uri>https://anypoint.mulesoft.com</uri>
 				</configuration>
